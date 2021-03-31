@@ -7,7 +7,7 @@
  joblib==0.13.2
  jupyter==1.0.0
  jupyter-console==6.0.0
- lxml==4.4.1
+ lxml==4.6.3
  object-detection==0.0.3
  qtconsole==4.5.2
  requests==2.22.0
