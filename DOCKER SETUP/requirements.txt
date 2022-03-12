@@ -23,7 +23,7 @@
  widgetsnbextension==3.5.1
  wrapt==1.11.2
  keras==2.3.0
- Pillow==6.1.0
+ Pillow==9.0.1
 #  _r-mutex=1.0.1
 
 #  _tflow_select=2.1.0=gpu
